@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/20/League+/res/layout
+END
+spinner_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12/League+/res/layout/spinner_item.xml
+END
+activity_home_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/11/League+/res/layout/activity_home_screen.xml
+END
+fragment_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/League+/res/layout/fragment_list.xml
+END
+fragment_player.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/29/League+/res/layout/fragment_player.xml
+END
+activity_player_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/24/League+/res/layout/activity_player_view.xml
+END
+activity_player_search_screen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/29/League+/res/layout/activity_player_search_screen.xml
+END

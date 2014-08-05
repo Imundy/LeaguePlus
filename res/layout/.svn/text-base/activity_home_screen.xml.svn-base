@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/default_background_icon_text"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    tools:context=".HomeScreenActivity" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <Button
+            android:id="@+id/ScoutPlayer"
+            android:onClick="scoutPlayer"
+            android:layout_width="150dp"
+            android:layout_height="35dip"
+            android:paddingLeft="22dip"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="222dip"
+            android:background="@drawable/button_background"
+            android:text="@string/Scout_Player"
+            android:gravity="center_vertical"
+            android:textColor="#eedd77"
+            android:textSize="@dimen/button_text_size"
+            android:textStyle="bold"
+             />
+
+        <Button
+            android:id="@+id/SearchGame"
+            android:onClick="searchGame"
+            android:layout_width="150dip"
+            android:layout_height="35dip"
+            android:paddingLeft="0dip"
+            android:layout_alignBottom="@+id/ScoutPlayer"
+            android:layout_alignLeft="@+id/ScoutPlayer"
+            android:layout_marginBottom="59dp"
+            android:background="@drawable/button_background"
+            android:text="@string/Search_Game"
+            android:textColor="#eedd77"
+            android:textSize="@dimen/button_text_size"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+</LinearLayout>

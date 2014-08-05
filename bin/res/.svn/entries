@@ -1,0 +1,46 @@
+10
+
+dir
+20
+https://league-of-info.googlecode.com/svn/League+/bin/res
+https://league-of-info.googlecode.com/svn
+
+
+
+2013-12-24T01:09:54.741875Z
+19
+ian.m.mundy@vanderbilt.edu
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4e78e75d-6aae-820e-4bc8-05a391c4bc1d
+
+crunch
+dir
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+drawable-xxhdpi
+dir
+
